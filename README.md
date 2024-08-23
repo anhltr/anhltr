@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anhltr
+- 👋 Hi, I’m Anh Tran
 - 👀 I’m interested in computer software, IOS application, soccer, blockchain, cryptocurrencies
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently senior at Georgia State University
 
 <!---
 anhltr/anhltr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
